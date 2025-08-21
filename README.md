@@ -1,2 +1,0 @@
-# tanque
-juego de tanques
